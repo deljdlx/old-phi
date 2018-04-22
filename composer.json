@@ -24,7 +24,7 @@
 		"phi-core": "dev-master",
 		"phi-traits": "dev-master",
 		"phi-routing": "dev-master",
-		"phi-http": "dev-master",p
+		"phi-http": "dev-master",
 		"phi-session": "dev-master",
 		"phi-cache": "dev-master",
 		"phi-database": "dev-master",
